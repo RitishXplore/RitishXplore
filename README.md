@@ -13,29 +13,29 @@ I have strong expertise in **CI/CD pipelines**, **GitHub**, and **Jira**, enabli
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
-![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-![electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)  
+- ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
+- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+- ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+- ![electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)  
 
 ### 🔧 Backend  
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+- ![nodejs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+- ![express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+- ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
 
 ### 🗄️ Database & Message Queues  
-![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
-![kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
+- ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+- ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+- ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+- ![redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+- ![kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
 
 ### 🔄 Version Control & Server-Side Tools  
-![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
-![ci/cd](https://img.shields.io/badge/CI/CD-0078D6?style=flat&logo=azure-devops&logoColor=white)  
-![jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
+- ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
+- ![ci/cd](https://img.shields.io/badge/CI/CD-0078D6?style=flat&logo=azure-devops&logoColor=white)  
+- ![jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
 
 ---
 
