@@ -72,8 +72,7 @@ An innovative file-sharing solution designed for organizational use, offering:
 
 ## 🌟 Featured Projects  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RitishXplore&repo=skychat&theme=dark)](https://github.com/RitishXplore/skychat)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RitishXplore&repo=anydesk-clone&theme=dark)](https://github.com/RitishXplore/anydesk-clone)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RitishXplore&repo=skychat&theme=dark)](https://github.com/RitishXplore/skychat)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RitishXplore&repo=anydeskclone&theme=dark)](https://github.com/RitishXplore/anydesk-clone)  
 
 ---
 
