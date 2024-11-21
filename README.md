@@ -107,9 +107,7 @@ I am continuously learning and experimenting with:
 
 ## 👋 Let’s Connect  
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/RitishXplore)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0af?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ritish-kumar-4029971b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritishup07@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/RitishXplore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0af?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ritish-kumar-4029971b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritishup07@gmail.com)
 
 Let’s collaborate and build something amazing together!  
 
